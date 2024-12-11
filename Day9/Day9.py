@@ -1,4 +1,3 @@
-print("hello world")
 file = open(".\\Day9\\input.txt")
 count = 0
 fileAsString = file.read()
